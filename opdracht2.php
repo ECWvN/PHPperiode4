@@ -26,12 +26,7 @@ Lever je class in via een github of gitlab - repository
 probeer of je een superclass met subclasses kunt maken van je objecten, bijvoorbeeld
 superclass is 'huisdier', met algemene kenmerken, zoals aantal poten,
 subclasses zijn bijvoorbeeld  'hond' of 'vis', met hun eigen kenmerken.
-De subclass hond zou een functie kunnen hebben als:
-
-function bark() { return "woof"; } -->
-
-
-<?php
+De sub<?php
 class Guitar {
   public $name;
   public $color;
@@ -64,3 +59,5 @@ echo $fenderT->get_wood();
 echo "<br>";
 echo $fenderT->get_age();
 ?>
+
+
