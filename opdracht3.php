@@ -1,6 +1,11 @@
 //opdracht 3
 
+
 <?php
+//src/opdracht3.php
+/**
+ * a class 
+ */
 class Guitar {
   public $name;
   public $color;
